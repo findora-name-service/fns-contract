@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+
+.env
+.secret
+
+node_modules/
+scripts/
+build/
